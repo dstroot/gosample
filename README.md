@@ -8,7 +8,7 @@ This is a go sample repo.  This was adapted from [hydra](https://github.com/SYNQ
 This sample app will implement the following
 
 * Basic web server handling /v1/details and /v1/status request
-* This will communicate with Synq API dc29c518d503423491c23e6a902e0315
+* This will communicate with Synq API
 * DB Connection with flyway setup
 * Tests with mocking
 * CircleCI setup (with coveralls setup)
