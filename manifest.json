@@ -1,0 +1,13 @@
+{
+    "dependencies": {
+        "github.com/gin-gonic/gin": {
+            "branch": "master"
+        },
+        "github.com/jmoiron/sqlx": {
+            "branch": "master"
+        },
+        "github.com/lib/pq": {
+            "branch": "master"
+        }
+    }
+}
